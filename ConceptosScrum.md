@@ -20,6 +20,7 @@ El Scrum Master es quien modera y facilita las interacciones del equipo como fac
 El Scrum Team también es conocido como equipo de desarrollo, ya que es responsable del desarrollo, servicio o de cualquier otro resultado. Consiste en un grupo de personas que trabajan en las historias de usuario en la lista de pendientes del sprint para crear los entregables del proyecto. Nadie, ni siquiera el Scrum Master, indica al Scrum Team cómo cumplir los objetivos del sprint, es un equipo auto gestionado y multifuncional que cuenta con todas las habilidades necesarias. El tamaño óptimo de un equipo Scrum es de seis a diez miembros.
 
 Responsabilidades principales a cumplir:
+
 Product Owner:
 * Definir la visión del proyecto.
 * Ayudar a finalizar la elección del Scrum Master para el proyecto.
@@ -34,6 +35,7 @@ Product Owner:
 * Aceptar/Rechazar los entregables.
 * Representar a los usuarios del producto o servicio con un profundo conocimiento de la comunidad de usuarios.
 * Asegurar los recursos financieros del proyecto.
+
 Scrum Master:
 * Ayudar a identificar a los stakeholders para el proyecto.
 * Facilita la selección del equipo Scrum.
@@ -45,6 +47,7 @@ Scrum Master:
 * Facilita las reuniones de revisión de la lista priorizada de pendientes del producto.
 * Se asegura que los problemas que afectan al equipo Scrum se discutan y se resuelvan.
 * Garantizar que exista un ambiente ideal para el equipo Scrum.
+
 Scrum Team:
 * Asegura una comprensión clara de las épicas y prototipos.
 * Entender las historias de usuario en la lista priorizada de pendientes del producto.
