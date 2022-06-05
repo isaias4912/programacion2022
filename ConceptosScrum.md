@@ -18,6 +18,7 @@ En la metodología Scrum podemos identificar TRES ROLES PRINCIPALES: Product Own
 El Product Owner o dueño del producto es como “la voz del cliente”, ya que debe entender las necesidades y prioridades de los stakeholders, incluyendo los clientes y los usuarios. Este rol es responsable, entre otras cosas, de garantizar una comunicación clara sobre el producto, de definir los criterios de aceptación y asegurar que se cumplan. Dicho de otra forma, el Product Owner es responsable de asegurar que el equipo Scrum ofrezca valor.
 El Scrum Master es quien modera y facilita las interacciones del equipo como facilitador y motivador. Este rol es responsable de asegurar un ambiente de trabajo productivo para el equipo, debe protegerlo de influencias externas, despejar los obstáculos y garantizar que se cumplan los principios, aspectos y procesos de la metodología Scrum.
 El Scrum Team también es conocido como equipo de desarrollo, ya que es responsable del desarrollo, servicio o de cualquier otro resultado. Consiste en un grupo de personas que trabajan en las historias de usuario en la lista de pendientes del sprint para crear los entregables del proyecto. Nadie, ni siquiera el Scrum Master, indica al Scrum Team cómo cumplir los objetivos del sprint, es un equipo auto gestionado y multifuncional que cuenta con todas las habilidades necesarias. El tamaño óptimo de un equipo Scrum es de seis a diez miembros.
+
 Responsabilidades prinsipales a cumplir:
 Product Owner:
 • Definir la visión del proyecto.
